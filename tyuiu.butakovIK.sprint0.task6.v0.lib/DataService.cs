@@ -44,4 +44,4 @@ namespace tyuiu.butakovIK.sprint0.task6.v0.lib
         }
     }
 }
-// проверка
+// проверк
